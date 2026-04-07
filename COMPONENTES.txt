@@ -1,0 +1,2 @@
+COMPONENTES: Permite hacer codigos reutilizables y son partes de la pagina web, tiene 3 partes:
+HTML (Etiqueta template), Estilos (etiqueta stile) y Hava script que (estan en script(.
